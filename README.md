@@ -8,7 +8,11 @@
 
 Brief summary: 
 ```
-Real analysis is the branch of mathematical analysis which studies real numbers, sequences, series of real numbers and real functions. It is distinguished from complex analysis which focuses on complex numbers and their functions. This report will include properties of real-valued sequences and functions, ranging from limit, convergence and continuity to differentiability and integrability
+Real analysis is the branch of mathematical analysis which studies real numbers, sequences, 
+series of real numbers and real functions. It is distinguished from complex analysis which 
+focuses on complex numbers and their functions. This report will include properties of 
+real-valued sequences and functions, ranging from limit, convergence and continuity to 
+differentiability and integrability
 ```
 
 ### 论文详细信息
