@@ -1,7 +1,8 @@
-## Real Analysis
+## MerCury's Blog
 
-Brief summary: 
-    Real analysis is the branch of mathematical analysis which studies real numbers, sequences, series of real numbers and real functions. It is distinguished from complex analysis which focuses on complex numbers and their functions. This report will include properties of real-valued sequences and functions, ranging from limit, convergence and continuity to differentiability and integrability
+You can use the [editor on GitHub](https://github.com/Mercurymath/mercurymath.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
