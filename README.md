@@ -13,8 +13,8 @@ Real analysis is the branch of mathematical analysis which studies real numbers,
 
 ### 论文详细信息
 
-[论文html](https://mercurymath.github.io/2020/04/06/)
-[论文pdf](https://mercurymath.github.io/assets/css/rd.pdf)
+1. [论文html](https://mercurymath.github.io/2020/04/06/)
+2. [论文pdf](https://mercurymath.github.io/assets/css/rd.pdf)
 
 
 
