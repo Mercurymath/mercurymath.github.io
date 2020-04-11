@@ -13,16 +13,11 @@ differentiability and integrability
 1. [paper(html)](https://mercurymath.github.io/2020/04/06/)
 2. [paper(pdf)](https://mercurymath.github.io/assets/css/rd.pdf)
           
-
-    effect: function(loadingOption,addShapeHandle,refreshHandle){
+ effect: function(loadingOption,addShapeHandle,refreshHandle){
         addShapeHandle({
            shape: 'image',
            style: {
-               image: 'test.jpg', //(https://user-images.githubusercontent.com/63102035/79048316-e8029c80-7c4e-11ea-81af-da9cfc3eee48.jpeg)
-              
-             
-
-
+               image: 'test.jpg', //![WechatIMG112](https://user-images.githubusercontent.com/63102035/79048316-e8029c80-7c4e-11ea-81af-da9cfc3eee48.jpeg)
 
 
 
