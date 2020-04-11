@@ -14,7 +14,6 @@ differentiability and integrability
 2. [paper(pdf)](https://mercurymath.github.io/assets/css/rd.pdf)
           
 
-echartObj.showLoading({
     effect: function(loadingOption,addShapeHandle,refreshHandle){
         addShapeHandle({
            shape: 'image',
