@@ -18,7 +18,7 @@ differentiability and integrability
         addShapeHandle({
            shape: 'image',
            style: {
-               image: 'test.jpg', //![WechatIMG112](https://user-images.githubusercontent.com/63102035/79048316-e8029c80-7c4e-11ea-81af-da9cfc3eee48.jpeg)
+               image: 'test.jpg', //(https://user-images.githubusercontent.com/63102035/79048316-e8029c80-7c4e-11ea-81af-da9cfc3eee48.jpeg)
               
              
 
