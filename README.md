@@ -14,23 +14,13 @@ differentiability and integrability
 2. [paper(pdf)](https://mercurymath.github.io/assets/css/rd.pdf)
 
 
-var echartObj = ... //
-echartObj.showLoading({
-    effect: function(loadingOption,addShapeHandle,refreshHandle){
+(loadingOption,addShapeHandle,refreshHandle){
         addShapeHandle({
            shape: 'image',
            style: {
                image: 'test.jpg', //![WechatIMG112](https://user-images.githubusercontent.com/63102035/79048117-5cd4d700-7c4d-11ea-96eb-0f21e8847866.jpeg)
 
-               x: 0, //![WechatIMG112](https://user-images.githubusercontent.com/63102035/79048106-4c246100-7c4d-11ea-9f99-faeab640ec64.jpeg)
-
-               y: 0 
-           }
-        });
-        refreshHandle();
-        return;
-    }
-});
+              
 
 
 
